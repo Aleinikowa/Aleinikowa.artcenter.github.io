@@ -80,7 +80,7 @@ h6 {
   text-decoration: none;
 }
 .menu ul li .menu__main-direction li:hover {
-  background-color: #6a16be;
+  background-color: #551e8b;
 }
 .menu ul li a {
   color: white;
@@ -268,7 +268,7 @@ h6 {
   color: white;
 }
 .poster h6 {
-  top: 80%;
+  top: 75%;
   font-weight: normal;
 }
 .poster__text-all {
@@ -336,6 +336,7 @@ h6 {
   margin-left: -7px;
 }
 .form__wrapper .form-group .submit {
+  transition: 0.3s;
   font-style: italic;
   font-size: 1.3em;
   font-weight: 700;
@@ -395,6 +396,7 @@ h6 {
   width: 200px;
   font-size: 1.3em;
   padding: 4px 40px 8px;
+  transition: 0.3s;
 }
 .about__wrapper-text .btn-about:hover {
   text-decoration: none;
@@ -954,6 +956,7 @@ h6 {
   text-align: center;
 }
 .form-wrapper .form-main-contacts .form-group .form-part4 .submit {
+  transition: 0.3s;
   font-style: italic;
   font-size: 1.3em;
   font-weight: 700;
